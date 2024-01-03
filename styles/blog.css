@@ -3,3 +3,7 @@ div{
     padding: 10px;
     margin-bottom: 10px;
 }
+.head{height: 500px;
+    background-image: url(FEATURED-IMAGE_cat.jpg);
+    background-size: cover;
+}
